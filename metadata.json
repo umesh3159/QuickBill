@@ -1,0 +1,6 @@
+{
+  "name": "JMD DigiSign",
+  "description": "Shop Billing, Invoice Generator & Customer Khata Ledger with live tax metrics, UPI QR code generation, and PDF export",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

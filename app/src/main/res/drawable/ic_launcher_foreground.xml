@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,22 h34 l16,16 v46 a4,4 0 0,1 -4,4 h-46 a4,4 0 0,1 -4,-4 v-58 a4,4 0 0,1 4,-4 z" />
+    <!-- Folded Corner -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M66,22 v16 h16 z" />
+    <!-- Text Lines -->
+    <path
+        android:fillColor="#0B4F6C"
+        android:pathData="M38,34 h22 v3 h-22 z M38,42 h32 v3 h-32 z M38,50 h24 v3 h-24 z M38,58 h18 v3 h-18 z" />
+    <!-- Golden Seal -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M68,60 a11,11 0 1,0 0,22 a11,11 0 1,0 0,-22 z" />
+    <!-- Inner Blue Seal -->
+    <path
+        android:fillColor="#0B4F6C"
+        android:pathData="M68,64 a7,7 0 1,0 0,14 a7,7 0 1,0 0,-14 z" />
+    <!-- Checkmark inside seal -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M65,71 L63,69 L61.5,70.5 L65,74 L72.5,66.5 L71,65 Z" />
+</vector>
